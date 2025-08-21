@@ -10,7 +10,5 @@ arr2 = np.arange(100, 48, -2)
 arr3 =np.concatenate((arr1, arr2))
 arr3_sorted = np.sort(arr3)
 
-print("Array de números pares de 0 a 51:", arr1)
-print("Array de números pares de 100 a 50:", arr2)
 print("Array Concatenado e Ordenado:", arr3_sorted)
 

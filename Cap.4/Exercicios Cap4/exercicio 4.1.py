@@ -17,7 +17,4 @@ if soma.sum() >= 40:
 else:
     matriz = soma.reshape(2,4)
 
-print("Array 1:", arr1)
-print("Array 2:", arr2)
-print("Soma dos Arrays:", soma)
 print("Matriz Resultante:\n", matriz)
